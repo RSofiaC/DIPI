@@ -1,1 +1,7 @@
 # DIPI
+
+Over the course of the semester, students will team up with people who work in high-octane environments (journalists, human rights defenders, cop watchers, whistleblowers, and documentary filmmakers) to build technical solutions for the public interest.
+Students will be presented with a unique set of design challenges directly from domain experts, and respond with hardware and software solutions specially-honed to meet the client’s need. This will require a lot of listening: together, we will work hard to understand the adversaries, threat models, and operational challenges frontline workers face daily.
+Students will then be split into teams, and work together in a “sprint” tackling the needs of the client of their choice. First, we will get to know the field through the eyes of our client. Then, we’ll work with our client to design a solution. Finally, we’ll build. This course will be production-heavy, and incorporate two fundamental principles:
+Human-centered, collaborative design focus: In our design phases, students will work with people in the field. We will incorporate input and feedback from those who will ultimately use our tools.
+Development in the open: Students will not only be graded on the work they produce, but also their development process. Students will be expected to master Github’s pull request and issue tracker features, and use submodules. All projects will be built in Node.js using the Express web framework, but that is only the starting point. Students are encouraged to build web apps incorporating a variety of APIs.
